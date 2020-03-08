@@ -28,7 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 >1.在package.json同级目录下创建 环境配置文件
 >
->![image-20200305161012418](%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3.assets/image-20200305161012418-1583633264842.png)
+>![image-20200305161012418](./image-20200305161012418-1583633264842.png)
 >
 >```js
 >文件内容格式如下:按需
