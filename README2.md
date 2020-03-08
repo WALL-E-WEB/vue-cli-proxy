@@ -1,3 +1,24 @@
+# qywx
+
+# 解决vue-cli3/4 不同环境跨域问题
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 ## vue-cli3.0+ 配置文件+命令行跨域解决方案
 
 1. 在package.json同级目录下创建 环境配置文件 .env.xxx (xxx一般为:dev / pro /test )
